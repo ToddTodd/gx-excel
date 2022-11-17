@@ -1,0 +1,28 @@
+{
+  "name": "gx-excel",
+  "version": "1.0.0",
+  "description": "Excel utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ToddTodd/gx-excel.git"
+  },
+  "keywords": [
+    "util",
+    "excel"
+  ],
+  "author": "todd",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "lodash": "^4.17.21",
+    "numeral": "^2.0.6",
+    "parameter-type": "^1.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}

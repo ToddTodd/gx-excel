@@ -1,2 +1,2 @@
 # gx-excel
-Excel util
+Reading and writing excel
